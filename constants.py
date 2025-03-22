@@ -1,0 +1,21 @@
+
+WIDTH, HEIGHT = 800, 600
+GRID_SIZE = 40
+GRID_WIDTH = WIDTH // GRID_SIZE
+GRID_HEIGHT = HEIGHT // GRID_SIZE
+FPS = 60
+
+
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+GRAY = (100, 100, 100)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+YELLOW = (255, 255, 0)
+GOLD = (255, 215, 0)
+
+
+PLAYING = "playing"
+GAME_OVER = "game_over"
+ANALYSIS = "analysis"
